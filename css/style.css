@@ -5,6 +5,7 @@ font-family: 'Roboto', sans-serif;
 * {
   scrollbar-width: none;
 }
+
 body {
   background-color: #000;
   margin: 0px;
@@ -37,7 +38,7 @@ header {
   margin-top: 80px;
 }
 .nav-link {
-  color: white;
+  color: white !important;
   font-size: 10px;
 }
 .nav-link:hover {
@@ -46,6 +47,7 @@ header {
   -webkit-text-fill-color: transparent;
   -moz-text-fill-color: transparent;
 }
+
 #particles-js {
   width: 100%;
   height: 100%;
