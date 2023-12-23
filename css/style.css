@@ -257,7 +257,9 @@ footer a:hover {
     width: 0;
   }
 }
-
+.portfolio-image {
+  text-align: center;
+}
 /* dimension  */
 @media (min-width: 576px) {
   .portfolio-image img {
