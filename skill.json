@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "name": "HTML",
+    "image": "./images/icons/html.svg"
+  },
+  {
+    "id": 2,
+    "name": "CSS",
+    "image": "./images/icons/css.svg"
+  },
+  {
+    "id": 3,
+    "name": "JavaScript",
+    "image": "./images/icons/javascript.svg"
+  },
+  {
+    "id": 4,
+    "name": "Bootstrap",
+    "image": "./images/icons/bootstrap.svg"
+  },
+  {
+    "id": 5,
+    "name": "SASS",
+    "image": "./images/icons/sass.svg"
+  },
+  {
+    "id": 6,
+    "name": "Jquery",
+    "image": "./images/icons/jquery.svg"
+  },
+  {
+    "id": 7,
+    "name": "MySQL",
+    "image": "./images/icons/mysql.svg"
+  },
+  {
+    "id": 8,
+    "name": "PHP",
+    "image": "./images/icons/php.svg"
+  },
+  {
+    "id": 9,
+    "name": "Wordpress",
+    "image": "./images/icons/wordpress.svg"
+  },
+  {
+    "id": 10,
+    "name": "React",
+    "image": "./images/icons/react.svg"
+  },
+  {
+    "id": 11,
+    "name": "Redux",
+    "image": "./images/icons/redux.svg"
+  },
+
+  {
+    "id": 12,
+    "name": "Tailwind",
+    "image": "./images/icons/tailwind.svg"
+  },
+  {
+    "id": 13,
+    "name": "TypeScript",
+    "image": "./images/icons/typescript.svg"
+  },
+  {
+    "id": 14,
+    "name": "Git",
+    "image": "./images/icons/git.svg"
+  }
+]
