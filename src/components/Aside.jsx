@@ -15,7 +15,7 @@ function Aside() {
         </figure>
         <div className="info-content">
           <h1 className="name">Uroš Nerandžić</h1>
-          <p className="title">Front-End Developer</p>
+          <p className="title">Web Developer</p>
         </div>
 
         <button onClick={() => setOpen((o) => !o)} className="info_more-btn">
