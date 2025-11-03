@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "title": "Cura Vita",
+    "category": "Projects for Clients",
+    "image": "./images/projects/cura-vita.png",
+    "https": "https://www.curavita.rs"
+  },
+  {
+    "id": 2,
+    "title": "Irkom",
+    "category": "Projects for Clients",
+    "image": "./images/projects/irkom.png",
+    "https": "https://www.irkom.rs"
+  },
+  {
+    "id": 3,
+    "title": "Aleksandrija Fruska Gora",
+    "category": "Projects for Clients",
+    "image": "./images/projects/aleksandrija-fruska-gora.png",
+    "https": " https://aleksandrijaglutenfree.com/"
+  },
+  {
+    "id": 4,
+    "title": "Savez hokeja Beograd ",
+    "category": "Projects for Clients",
+    "image": "./images/projects/savez-hokeja-na-travi-beograd.png",
+    "https": "https://hokejnatravibeograd.rs/"
+  },
+  {
+    "id": 5,
+    "title": "Boris Deheljan",
+    "category": "Projects for Clients",
+    "image": "./images/projects/boris-deheljan.png",
+    "https": "https://deheljan-art.com/"
+  },
+  {
+    "id": 6,
+    "title": "Aleksandrija Shop",
+    "category": "Projects for Clients",
+    "image": "./images/projects/aleksandrija-shop.png",
+    "https": "https://glutenfreeshop.rs/"
+  },
+  {
+    "id": 7,
+    "title": "Mademoiselle",
+    "category": "Personal Projects",
+    "image": "./images/projects/mademoiselle.png",
+    "https": "https://github.com/UrosNerandzic/Mademoiselle"
+  },
+  {
+    "id": 8,
+    "title": "Sunglasses",
+    "category": "Personal Projects",
+    "image": "./images/projects/sunglasses.png",
+    "https": "https://urosnerandzic.github.io/sunglasses/"
+  },
+  {
+    "id": 9,
+    "title": "Bitcoin",
+    "category": "Personal Projects",
+    "image": "./images/projects/bitcoin.png",
+    "https": "https://urosnerandzic.github.io/Bitcoin/"
+  },
+  {
+    "id": 10,
+    "title": "Layer",
+    "category": "Personal Projects",
+    "image": "./images/projects/layer.png",
+    "https": "https://github.com/UrosNerandzic/Lawyer"
+  },
+  {
+    "id": 11,
+    "title": "World Wise",
+    "category": "Applications",
+    "image": "./images/projects/world-wise.png",
+    "https": "https://urosnerandzic.github.io/world-wise/"
+  },
+  {
+    "id": 12,
+    "title": "Popcorn",
+    "category": "Applications",
+    "image": "./images/projects/popcorn.png",
+    "https": "https://urosnerandzic.github.io/popcorn/"
+  },
+  {
+    "id": 13,
+    "title": "Quiz",
+    "category": "Applications",
+    "image": "./images/projects/quiz.png",
+    "https": "https://urosnerandzic.github.io/react-quiz/"
+  },
+  {
+    "id": 14,
+    "title": "Pizza Shop",
+    "category": "Applications",
+    "image": "./images/projects/pizza-shop.png",
+    "https": "https://urosnerandzic.github.io/pizza-shop/"
+  },
+  {
+    "id": 15,
+    "title": "Car",
+    "category": "Applications",
+    "image": "./images/projects/car.png",
+    "https": "https://urosnerandzic.github.io/Car/"
+  }
+]
